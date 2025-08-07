@@ -36,6 +36,26 @@ ideo-principal iframe {
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 119, 204, 0.3);
 }
+.botao-assistir {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #0077cc;
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.3s, transform 0.3s;
+    box-shadow: 0 0 10px rgba(0, 119, 204, 0.4);
+}
+
+.botao-assistir:hover {
+    background-color: #005fa3;
+    transform: translateY(-2px);
+    box-shadow: 0 0 15px rgba(0, 119, 204, 0.6);
+}
 
 
 
