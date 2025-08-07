@@ -1,15 +1,15 @@
 bodbody{
-color:#c6a974 ;
-background-color:#0c0c0c ;
+color: #0c5eb6 ;
+background-color: ;
 margin: 0px;
 margin-bottom: 100px;
 }
 
 header{
-    border-bottom: solid 2px #a58e63 ;
+    border-bottom: solid 2px #2283c4 ;
     margin: 20px;
     font-size: 32px;
-    color: black;
+    color: rgb(71, 62, 184);
 }
 
 
@@ -17,14 +17,14 @@ section{
      
 padding-bottom: 80px;
 padding-top: 80px;
-background: gray;
+background: rgb(57, 133, 184);
 display: flex;
 justify-content: center;
 }
 
 
 h1{
-color:#c6a974 ;
+color:#293496 ;
 font-size: 40px;
 }
 
@@ -51,12 +51,12 @@ img{
 }
 .categoria-videos img:hover{
 opacity:1.0;
-border: 3px solid #c6a974;
+border: 3px solid #2c6ec5;
 
 }
 
 .categoria h2{
-color: #a58e63;
+color: #1f38c4;
 
 }
 
