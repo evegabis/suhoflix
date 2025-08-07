@@ -41,7 +41,7 @@ main {
     line-height: 1.6;
 }
 
-.video-principal iframe {
+video-principal iframe {
     width: 100%;
     max-width: 960px;
     height: 540px;
@@ -90,4 +90,3 @@ footer {
     border-top: 1px solid #444;
     margin-top: 60px;
 }
-
