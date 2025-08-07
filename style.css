@@ -29,25 +29,15 @@ main {
     margin: 0 auto 40px;
 }
 
-.chamada-texto h2 {
-    color: #0077cc;
-    font-size: 36px;
-    margin-bottom: 20px;
-}
-
-.chamada-texto p {
-    color: #cccccc;
-    font-size: 18px;
-    line-height: 1.6;
-}
-
-video-principal iframe {
+ideo-principal iframe {
     width: 100%;
     max-width: 960px;
     height: 540px;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 119, 204, 0.3);
 }
+
+
 
 h2 {
     color: #0077cc;
